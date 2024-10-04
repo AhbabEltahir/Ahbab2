@@ -26,7 +26,7 @@ int main(){
     }
     else if (select==3){
         exitProgram();
-        return 0;
+        break;
     }
       else{
        printf("Invalid selection\n");       
